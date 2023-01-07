@@ -1,3 +1,3 @@
 # azure-challange
 
-![arq](./img/arq.png)
+![arq](./img/arq.jpeg)

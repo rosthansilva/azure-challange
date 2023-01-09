@@ -19,10 +19,6 @@ variable "management-subnet" {
 }
 
 
-variable "shared-subnet" {
-
-}
-
 variable "public-subnet" {
 
 }
@@ -30,6 +26,11 @@ variable "public-subnet" {
 variable "private-subnet" {
 
 }
+
+variable "shared-subnet" {
+
+}
+
 variable "database-subnet" {
 
 }
@@ -39,7 +40,7 @@ variable "streaming-subnet" {
 }
 
 variable "tags" {
-  type = map(any)
+
 }
 
 variable "location" {
